@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/jfaturos/SpaFrameworkAngularJS/issues"
   },
-  "homepage": "https://github.com/jfaturos/SpaFrameworkAngularJS#readme"
+  "homepage": "https://github.com/jfaturos/SpaFrameworkAngularJS#readme",
+  "dependencies": {
+    "angular": "^1.7.2",
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1"
+  }
 }

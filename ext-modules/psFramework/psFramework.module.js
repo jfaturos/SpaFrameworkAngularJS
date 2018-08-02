@@ -2,8 +2,8 @@
     'use strict';
 
     angular
-    .module('psFramework', [
-        'psMenu',
-        'psDashboard'
-    ]);
+        .module('psFramework', [
+            'psMenu',
+            'psDashboard'
+        ]);
 })();
